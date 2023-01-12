@@ -1,7 +1,6 @@
 
 # importing the module 
 import sys
-from pathlib import Path
 from pytube import YouTube
 
 if len(sys.argv) == 1:
